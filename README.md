@@ -1,2 +1,2 @@
-# Actividad_1-Grupo_7
-Manual de instalación Ubuntu
+# Proyecto Final - Fase 1
+Manual Redes - Fase 1
